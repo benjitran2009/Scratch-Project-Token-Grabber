@@ -1,2 +1,2 @@
-# Scratch-Project-Token-Grabber
-A project token grabber for scratch using scratchattach by @TimMcCool (OPEN - SOURCE)
+# Scratch Grabber
+A Project Token (https://docs.turbowarp.org/url-parameters#token) grabber for Scratch using scratchattach (https://github.com/TimMcCool/scratchattach) by @TimMcCool (OPEN-SOURCE)
